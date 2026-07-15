@@ -5,7 +5,6 @@
 # MOD_DEPS: (optional) module dependencies
 #
 ####
-restrict_platforms(vxworks)
 add_custom_target("${FPRIME_CURRENT_MODULE}")
 
 register_fprime_module(
