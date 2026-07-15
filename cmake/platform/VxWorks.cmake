@@ -23,7 +23,7 @@ register_fprime_config(
         Os_File_Stub
         Os_Memory_Stub
         Os_RawTime_Stub
-        Os_CountingSemaphore_Stub
+        #Os_CountingSemaphore_Stub
    BASE_CONFIG
 )
 
